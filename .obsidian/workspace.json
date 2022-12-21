@@ -1,0 +1,214 @@
+{
+  "main": {
+    "id": "31a15f17e693c071",
+    "type": "split",
+    "children": [
+      {
+        "id": "d1b9db411e939ee9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c2bdd6d7e8c17e88",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "ae20cf76d75df769",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          },
+          {
+            "id": "3560c208345a6658",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "papers/AlphaZero.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "88883d15f4c15d47",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "071ca3b26aa10048",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lectures/DeepMind RL/Intro to RL.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "f82cf7670dc96787",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lectures/DeepMind RL/Markov Decision.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "3a909ab8913f0d78",
+    "type": "split",
+    "children": [
+      {
+        "id": "ab33b4087850dbd1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "56e9bbac2a08dd03",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "8a9d79182f111269",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "ac5ada00809c8a5b",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 235.5
+  },
+  "right": {
+    "id": "c9f7784443b944e5",
+    "type": "split",
+    "children": [
+      {
+        "id": "8dae020c2566c65c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fbc618231360a3bc",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Lectures/DeepMind RL/Markov Decision.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "bf1cd5f20ad3a3f5",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Lectures/DeepMind RL/Markov Decision.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "2cb19734a53f29b9",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "57cc852ad4ff337f",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Lectures/DeepMind RL/Markov Decision.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "f82cf7670dc96787",
+  "lastOpenFiles": [
+    "Lectures/DeepMind RL/Intro to RL.md",
+    "Lectures/DeepMind RL/Markov Decision.md",
+    "Books/Algorithmns for Reinforcement Learning.md",
+    "Books/An Introduction to Reinforcement Learning.md",
+    "README.md",
+    "papers/AlphaZero.md",
+    "papers/To Read.md",
+    "papers/Flamingo.md",
+    "Untitled.md"
+  ]
+}

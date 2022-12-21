@@ -1,0 +1,5 @@
+- **Markov Decision Processes** formally describe an enviorment for RL
+	- the enviorment is fully observable
+	- almost all RL problems can be formalized as MDPS 
+		- partially observable problem can be converted into MDPs 
+	- bandits are MDPs with a single state

@@ -1,0 +1,4 @@
+- [Mastering the game of Go without human knowledge](https://www.nature.com/articles/nature24270.epdf?author_access_token=VJXbVjaSHxFoctQQ4p2k4tRgN0jAjWel9jnR3ZoTv0PVW4gB86EEpGqTRDtpIz-2rmo8-KG06gqVobU5NSCFeHILHcVFUeMsbvwS-lxjqQGg98faovwjxeTUgZAUMnRQ)
+- [Flamingo: Deepmind](https://storage.googleapis.com/deepmind-media/DeepMind.com/Blog/tackling-multiple-tasks-with-a-single-visual-language-model/flamingo.pdf)
+- [Deep Learning for Real-Time Atari Game Play Using Offline Monte-Carlo Tree Search Planning](https://proceedings.neurips.cc/paper/2014/hash/8bb88f80d334b1869781beb89f7b73be-Abstract.html)
+- 
